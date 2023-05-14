@@ -22,5 +22,5 @@ setup(
     url="https://github.com/noah560/EasyAuth",
     author="Noah C. C. S.",
     author_email="noahisontheinternet@outlook.com",
-    install_requires=["hashlib", "random"]
+    install_requires=[]
 )
