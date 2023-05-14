@@ -18,3 +18,4 @@ def verify(rand, key, response):
 
 def authenticte_self(key, rand):
     return hash(str(rand*key))
+
